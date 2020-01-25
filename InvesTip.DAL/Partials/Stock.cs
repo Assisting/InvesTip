@@ -6,5 +6,6 @@ namespace InvesTip.DAL.Partials
 {
     partial class Stock
     {
+        public int ID;
     }
 }

@@ -6,5 +6,9 @@ namespace InvesTip.DAL.Partials
 {
     partial class UserReccomendation
     {
+        public int ID;
+        public int UserID;
+        public int StockID;
+        public DateTime RecommendedDateTime;
     }
 }

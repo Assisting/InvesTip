@@ -6,5 +6,8 @@ namespace InvesTip.DAL.Partials
 {
     partial class User
     {
+        public int ID;
+        public string Name;
+        public string Email;
     }
 }
